@@ -1,4 +1,4 @@
-const repeatString = require('./repeatString-solution');
+ const repeatString = require('./repeatString-solution');
 
 describe('repeatString', () => {
   test('repeats the string', () => {
